@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<employees>
+	<emp>
+		<empno>1000</empno>
+		<empname>Raja</empname>
+		</emp>
+	<emp>
+		<empno>1200</empno>
+		<empname>Hari</empname>
+	</emp>
+	</employees>	
+			
